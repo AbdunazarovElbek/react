@@ -61,7 +61,7 @@
 
 
 import './index.css'
-import'./assets/hero image.png'
+// import'./assets/hero image.png'
 function App(){
 return(
   <div className='body'>
